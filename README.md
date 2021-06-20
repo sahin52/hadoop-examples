@@ -5,6 +5,7 @@ Examples codes demonstrating features in Hadoop eco-system.
 
 Running Wordcount Example
 ------------------------------------
+```
 cd /usr/local/hadoop
 hadoop dfs -mkdir ~/wordcount/input
 sudo vi file01
@@ -32,7 +33,7 @@ Goodbye	1
 Hadoop	2
 Hello	2
 World	2
-
+```
 Running Weather Example
 -------------------------------
 
